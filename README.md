@@ -1,12 +1,13 @@
 #RideNin is a ticket booking app made with react.
 
-#Technology used:
+Technology used:
 React, Bootstrap, React hooks, React Router, FireBase.
 
 #Map used from:
 Mapbox.
 
-What I have learnt so far using this project:
+
+Features of this project:
 
 * Auth using firebase.
 * React Router
@@ -17,9 +18,6 @@ What I have learnt so far using this project:
 * Conditional Rendering
 
 
-
-Image not showing in firebase host but fully functional:
+Hosted on firebase:
 https://ridenin.web.app/
 
-Image showing on Netlify host:
-https://jovial-northcutt-ce3696.netlify.app/
